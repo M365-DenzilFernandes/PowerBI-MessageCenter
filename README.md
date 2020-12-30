@@ -10,3 +10,5 @@ This report contains a data query which connects to the Office 365 Service Commu
 * Get Services: Get the list of subscribed services
 
 As it's pre-configured to query my development tenant, you only need to update the tenant id, client id and client secret. 
+
+https://github.com/M365-DenzilFernandes/M365-MessageCenter-PowerBI/blob/main/PBI-MessageCenter-1.png
