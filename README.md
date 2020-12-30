@@ -11,4 +11,5 @@ This report contains a data query which connects to the Office 365 Service Commu
 
 As it's pre-configured to query my development tenant, you only need to update the tenant id, client id and client secret. 
 
-[img source="https://github.com/M365-DenzilFernandes/M365-MessageCenter-PowerBI/blob/main/PBI-MessageCenter-1.png" /]
+
+<img src="hhttps://github.com/M365-DenzilFernandes/M365-MessageCenter-PowerBI/blob/main/PBI-MessageCenter-1.png"  style="max-width:100%;">
