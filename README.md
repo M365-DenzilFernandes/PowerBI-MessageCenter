@@ -6,7 +6,6 @@ This report contains a data query which connects to the Office 365 Service Commu
 
 * Get Current Status: Get current service status including any incidents
 * Get Messages: Get Incidents, Planned Maintenance, and Message Centre communications.
-* Get Historical Status: Get historic service status including any incidents
 * Get Services: Get the list of subscribed services
 
 <img src="https://github.com/M365-DenzilFernandes/M365-MessageCenter-PowerBI/blob/main/PBI-MessageCenter-1.png"  style="max-width:100%;">
