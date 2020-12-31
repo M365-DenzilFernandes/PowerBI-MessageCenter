@@ -20,7 +20,7 @@ This report contains a data query which connects to the Office 365 Service Commu
 * Add an Application Permission to Office 365 Management API's and Select ServiceHealth.Read - Admin Consent Required.
 <img src="https://github.com/M365-DenzilFernandes/M365-MessageCenter-PowerBI/blob/main/PBI-MessageCenter-4.png"  style="max-width:100%;">
 
-* Download the PBIX report and update the queries (i.e. O365Token, CurrentStatus, MessageCenter, Services. Incidents).
+* [Download the PBIX report](https://github.com/M365-DenzilFernandes/PowerBI-MessageCenter/blob/main/Microsoft365AdminCenter-MessageCenter-Public.pbix) and update the queries (i.e. O365Token, CurrentStatus, MessageCenter, Services. Incidents).
 * You only need to update the tenant id, client id and client secret where applicable.
 <img src="https://github.com/M365-DenzilFernandes/M365-MessageCenter-PowerBI/blob/main/PBI-MessageCenter-3.png"  style="max-width:100%;">
 
