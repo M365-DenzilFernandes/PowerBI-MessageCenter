@@ -18,5 +18,7 @@ This report contains a data query which connects to the Office 365 Service Commu
 <img src="https://github.com/M365-DenzilFernandes/M365-MessageCenter-PowerBI/blob/main/PBI-MessageCenter-3.png"  style="max-width:100%;">
 
 #Azure AD App Registration
-* If you want to connect this report to your own tenant, you will need to create an app registration and grant it the following API Permissions
+* If you want to connect this report to your own tenant, you will need to create an app registration and grant it the following API Permissions.
+* Add an Application Permission to Office 365 Management API's and Select ServiceHealth.Read - Admin Consent Required
+<img src="https://github.com/M365-DenzilFernandes/M365-MessageCenter-PowerBI/blob/main/PBI-MessageCenter-3.png"  style="max-width:100%;">
 
