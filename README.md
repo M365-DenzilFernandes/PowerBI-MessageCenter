@@ -13,3 +13,4 @@ As it's pre-configured to query my development tenant, you only need to update t
 
 
 <img src="https://github.com/M365-DenzilFernandes/M365-MessageCenter-PowerBI/blob/main/PBI-MessageCenter-1.png"  style="max-width:100%;">
+<img src="https://github.com/M365-DenzilFernandes/M365-MessageCenter-PowerBI/blob/main/PBI-MessageCenter-2.png"  style="max-width:100%;">
