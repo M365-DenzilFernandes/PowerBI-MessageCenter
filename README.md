@@ -1,4 +1,4 @@
-# M365-MessageCenter-PowerBI
+# PowerBI-MessageCenter
 
 A Power BI Report to connect to the Office 365 Service Communications API
 
@@ -9,8 +9,8 @@ This report contains a data query which connects to the Office 365 Service Commu
 * Get Historical Status: Get historic service status including any incidents
 * Get Services: Get the list of subscribed services
 
-As it's pre-configured to query my development tenant, you only need to update the tenant id, client id and client secret. 
-
-
 <img src="https://github.com/M365-DenzilFernandes/M365-MessageCenter-PowerBI/blob/main/PBI-MessageCenter-1.png"  style="max-width:100%;">
 <img src="https://github.com/M365-DenzilFernandes/M365-MessageCenter-PowerBI/blob/main/PBI-MessageCenter-2.png"  style="max-width:100%;">
+
+# You only need to update the tenant id, client id and client secret. 
+<img src="https://github.com/M365-DenzilFernandes/M365-MessageCenter-PowerBI/blob/main/PBI-MessageCenter-3.png"  style="max-width:100%;">
