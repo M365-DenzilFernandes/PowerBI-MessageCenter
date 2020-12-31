@@ -14,6 +14,7 @@ This report contains a data query which connects to the Office 365 Service Commu
 * Report uses Anonymous Authentication for each query.
 * Refresh the report to download the latest messages from Microsoft 365 Admin Message Center
 <img src="https://github.com/M365-DenzilFernandes/M365-MessageCenter-PowerBI/blob/main/PBI-MessageCenter-2.png"  style="max-width:100%;">
+
 * Right Click any Message to drill through the Message Details
 <img src="https://github.com/M365-DenzilFernandes/M365-MessageCenter-PowerBI/blob/main/PBI-MessageCenter-3.png"  style="max-width:100%;">
 
