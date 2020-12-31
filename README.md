@@ -1,6 +1,6 @@
 # PowerBI-MessageCenter
-
-A Power BI Report to connect to the Office 365 Service Communications API. The queries contains the HTTPS POST/GET request to authenicate with Client ID/Secret.
+A Power BI Report to connect to the Office 365 Service Communications API. 
+Note: The data connection is set to Anonymous and the queries contains the HTTPS POST/GET request to authenicate with the TenantId/ClientId/ClientSecret 
 
 This report contains a data query which connects to the Office 365 Service Communications API and query the following from the API:
 
