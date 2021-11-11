@@ -29,8 +29,9 @@ This report contains a data query which connects to the Office 365 Service Commu
 A Power BI Report to connect Service Communication API data stored in SharePoint Online. This requires the implementation of a Flow with premium connector to get data from the tenant.
 
 ## How-To Use?
-* Download the Power Automate flow and import into your environment. 
+* [Download the Power Automate flow](https://github.com/M365-DenzilFernandes/PowerBI-MessageCenter/blob/main/PBI-ServiceCommunicationstoTextFile.zip) and import into your environment. 
 * Update the Tenant ID, Client ID and Secret ID variables in the flow.
 * Update the SharePoint Site destination to store the files.
-* Download the v2.0 PBIX report and update the connections to use your SharePoint Online path. 
+* [Download the v2.0 PBIX report](https://github.com/M365-DenzilFernandes/PowerBI-MessageCenter/blob/main/Microsoft365AdminCenter-MessageCenter-Public-v2.0.pbix) and update the connections to use your SharePoint Online path. 
+* Published the report to PBI Online/Workspace. Set Automatic Refresh
 
