@@ -1,5 +1,8 @@
 
 # Option 1 - PowerBI-MessageCenter
+
+* Unfortunately this no longer works. I am processing of updating it to use graph.microsoft.com; Please use the Option 2 below.
+
 A Power BI Report to connect to the Office 365 Service Communications API. 
 Note: The data connection is set to Anonymous and the queries contains the HTTPS POST/GET request to authenicate with the TenantId/ClientId/ClientSecret 
 
@@ -25,13 +28,13 @@ This report contains a data query which connects to the Office 365 Service Commu
 * You only need to update the tenant id, client id and client secret where applicable.
 <img src="https://github.com/M365-DenzilFernandes/M365-MessageCenter-PowerBI/blob/main/PBI-MessageCenter-3.png"  style="max-width:100%;">
 
-# Option 2 - PowerBI-MessageCenter v2.0 
+# Option 2 - PowerBI-MessageCenter v3.0 
 A Power BI Report to connect Service Communication API data stored in SharePoint Online. This requires the implementation of a Flow with premium connector to get data from the tenant.
 
 ## How-To Use?
-* [Download the Power Automate flow](https://github.com/M365-DenzilFernandes/PowerBI-MessageCenter/blob/main/PBI-ServiceCommunicationstoTextFile.zip) and import into your environment. 
+* [Download the Power Automate flow](https://github.com/M365-DenzilFernandes/PowerBI-MessageCenter/raw/main/PBI-ServiceCommunicationstoTextFile%5BExport%5D-v3.0.zip) and import into your environment. 
 * Update the Tenant ID, Client ID and Secret ID variables in the flow.
 * Update the SharePoint Site destination to store the files.
-* [Download the v2.0 PBIX report](https://github.com/M365-DenzilFernandes/PowerBI-MessageCenter/blob/main/Microsoft365AdminCenter-MessageCenter-Public-v2.0.pbix) and update the connections to use your SharePoint Online path. 
+* [Download the v3.0 PBIX report](https://github.com/M365-DenzilFernandes/PowerBI-MessageCenter/raw/main/Microsoft365AdminCenter-MessageCenter-Public-v3.0.pbix) and update the connections to use your SharePoint Online path. 
 * Published the report to PBI Online/Workspace. Set Automatic Refresh
 
