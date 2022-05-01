@@ -1,12 +1,10 @@
 
 # Option 1 - PowerBI-MessageCenter
 
-* Unfortunately this no longer works. I am processing of updating it to use graph.microsoft.com; Please use the Option 2 below.
-
 A Power BI Report to connect to the Office 365 Service Communications API. 
 Note: The data connection is set to Anonymous and the queries contains the HTTPS POST/GET request to authenicate with the TenantId/ClientId/ClientSecret 
 
-This report contains a data query which connects to the Office 365 Service Communications API and query the following from the API:
+This report contains a data query which connects to the Graph API and query the following from the API:
 
 * Get Current Status: Get current service status including any incidents.
 * Get Messages: Get Incidents, Planned Maintenance, and Message Centre communications.
@@ -15,6 +13,8 @@ This report contains a data query which connects to the Office 365 Service Commu
 
 ## How-To Use?
 * Download the report and Refresh the report to download the latest messages from Microsoft 365 Admin Message Center.
+* Update the Tenant ID, Client ID and Secret ID variables in the PBI Query.
+* [Download the v3.0 PBIX report](https://github.com/M365-DenzilFernandes/PowerBI-MessageCenter/raw/main/Microsoft365AdminCenter-MessageCenter-Public-v3.0-Direct.pbix) 
 * Right Click any Message to drill through the Message Details.
 <img src="https://github.com/M365-DenzilFernandes/M365-MessageCenter-PowerBI/blob/main/PBI-MessageCenter-2.png"  style="max-width:100%;">
 
