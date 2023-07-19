@@ -25,7 +25,7 @@ This report contains a data query which connects to the Graph API and query the 
 * Add an Application Permission to Graph API's and Select ServiceMessage.Read.All + ServiceHealth.Read.All - Admin Consent Required.
 <img src="https://github.com/M365-DenzilFernandes/PowerBI-MessageCenter/raw/6cc967d6b53bca0520f06e6707a61fc9560f994e/PBI-MessageCenter-4.png"  style="max-width:100%;">
 
-* [Download the PBIX report](https://github.com/M365-DenzilFernandes/PowerBI-MessageCenter/raw/main/Microsoft365AdminCenter-MessageCenter-Public.pbix) and update the queries (i.e. O365Token, CurrentStatus, MessageCenter, Services. Incidents).
+* [Download the PBIX report](https://github.com/M365-DenzilFernandes/PowerBI-MessageCenter/blob/main/Microsoft365AdminCenter-MessageCenter-Public-v3.0.pbix) and update the queries (i.e. O365Token, CurrentStatus, MessageCenter, Services. Incidents).
 * You only need to update the tenant id, client id and client secret where applicable.
 <img src="https://github.com/M365-DenzilFernandes/M365-MessageCenter-PowerBI/blob/main/PBI-MessageCenter-3.png"  style="max-width:100%;">
 
